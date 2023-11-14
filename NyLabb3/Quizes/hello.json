@@ -1,0 +1,30 @@
+{
+  "Title": "General Knowledge Quiz",
+  "Questions": [
+    {
+      "Statement": "What is the capital of France?",
+      "Answers": [ "Paris", "Berlin", "Madrid" ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Statement": "Which planet is known as the Red Planet?",
+      "Answers": [ "Mars", "Earth", "Jupiter" ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Statement": "In what year did the Titanic sink?",
+      "Answers": [ "1912", "1920", "1905" ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Statement": "What is the largest mammal in the world?",
+      "Answers": [ "Blue Whale", "African Elephant", "Giraffe" ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Statement": "Who painted the Mona Lisa?",
+      "Answers": [ "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh" ],
+      "CorrectAnswer": 0
+    }
+  ]
+}
